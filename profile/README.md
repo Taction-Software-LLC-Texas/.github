@@ -47,8 +47,8 @@
 **Description:** <h4>Drug-Nutrition Interactions is an essential online resource providing comprehensive information on how various medications interact with foods and nutrients. Designed for healthcare professionals and individuals alike, our platform offers detailed insights into the effects of drug-nutrient interactions, helping users make informed decisions about their health and diet.</h4>
 
 **Tech Stack:** React, Node.js, MongoDB <br>
-**Live Link:** [Demo](https://admin.drugnutritioninteractions.com/)
-**Live Link:** [Demo](https://www.drugnutritioninteractions.com/) <br>
+**Live Link:** [Demo](https://admin.drugnutritioninteractions.com/) <br>
+**Live Link:** [Demo](https://www.drugnutritioninteractions.com/) 
 
 ### 5. Kaplan Professional ME
 **Description:** <h4>Kaplan Professional ME provides world-class training and educational services tailored for professionals in the Middle East. Offering a wide range of courses in finance, accounting, and business management, the platform is dedicated to helping individuals and organizations achieve their professional development goals. With expert instructors and comprehensive study materials, Kaplan Professional ME ensures that learners are equipped with the knowledge and skills necessary to excel in their careers. </h4>
@@ -62,12 +62,12 @@
 
 **Live Link:** [Demo](https://www.xoomia.com/)
 
-### 7. Warumleer
+<!-- ### 7. Warumleer
 **Description:** A brief description of what this project does and its key features.
 
 **Tech Stack:** React, Node.js, MongoDB <br>
 **Live Link:** [Demo](https://www.warumleer.de/) <br>
-**Live Link:** [Demo](https://admin.warumleer.de/)
+**Live Link:** [Demo](https://admin.warumleer.de/) -->
 
 ### 7. SoulSpring World
 **Description:** <h4> SoulSpring World is a beautifully crafted digital sanctuary designed to guide users on a journey of self-discovery, personal growth, and spiritual alignment. The platform blends soulful storytelling, mindful practices, and transformative teachings into an interactive web experience that inspires and empowers visitors.</h4>
