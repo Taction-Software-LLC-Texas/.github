@@ -34,56 +34,52 @@
 **Description:** <h4>AYAM World is a transformative online platform dedicated to elevating human consciousness through spirituality, wellness, and immersive experiences. Developed as a digital extension of the AYAM movement, the website embodies a modern, mindful aesthetic while delivering seamless functionality and intuitive navigation.</h4>
 
 **Tech Stack:** CMS, Ucraft <br>
-**Live Link:** [Live to Link](https://ayam.world/)
+**Live Link:** [Demo](https://ayam.world/)
 
 ### 3. TATA AIA Calculator
 
-**Description:**
-<h4> :The Tata AIA Life Insurance Client Portal is a secure, user-friendly platform designed to provide policyholders with seamless access to their insurance information. Users can easily manage their policies, view policy details, make premium payments, and track claims. The portal ensures a hassle-free experience with intuitive navigation, comprehensive support, and robust security measures to safeguard personal data.</h4>
+**Description:** <h4>The Tata AIA Life Insurance Client Portal is a secure, user-friendly platform designed to provide policyholders with seamless access to their insurance information. Users can easily manage their policies, view policy details, make premium payments, and track claims. The portal ensures a hassle-free experience with intuitive navigation, comprehensive support, and robust security measures to safeguard personal data.</h4>
 
 **Tech Stack:** React, Node.js, MongoDB <br>
-**Live Link:** [link to Live](https://tata-aia.taction.in/)
+**Live Link:** [Demo](https://tata-aia.taction.in/)
 
 ### 4. DNI- Drug Nutrition Interactions
-**Description:**
-<h4>:Drug-Nutrition Interactions is an essential online resource providing comprehensive information on how various medications interact with foods and nutrients. Designed for healthcare professionals and individuals alike, our platform offers detailed insights into the effects of drug-nutrient interactions, helping users make informed decisions about their health and diet.</h4>
+**Description:** <h4>Drug-Nutrition Interactions is an essential online resource providing comprehensive information on how various medications interact with foods and nutrients. Designed for healthcare professionals and individuals alike, our platform offers detailed insights into the effects of drug-nutrient interactions, helping users make informed decisions about their health and diet.</h4>
 
 **Tech Stack:** React, Node.js, MongoDB <br>
-**Live Demo:** [Link to live demo](https://www.drugnutritioninteractions.com/) <br>
-**Live Demo:** [Link to live demo](https://admin.drugnutritioninteractions.com/)
+**Live Link:** [Demo](https://admin.drugnutritioninteractions.com/)
+**Live Link:** [Demo](https://www.drugnutritioninteractions.com/) <br>
 
 ### 5. Kaplan Professional ME
-**Description:**
-<h4> :Kaplan Professional ME provides world-class training and educational services tailored for professionals in the Middle East. Offering a wide range of courses in finance, accounting, and business management, the platform is dedicated to helping individuals and organizations achieve their professional development goals. With expert instructors and comprehensive study materials, Kaplan Professional ME ensures that learners are equipped with the knowledge and skills necessary to excel in their careers. </h4>
+**Description:** <h4>Kaplan Professional ME provides world-class training and educational services tailored for professionals in the Middle East. Offering a wide range of courses in finance, accounting, and business management, the platform is dedicated to helping individuals and organizations achieve their professional development goals. With expert instructors and comprehensive study materials, Kaplan Professional ME ensures that learners are equipped with the knowledge and skills necessary to excel in their careers. </h4>
 
 **Tech Stack:** PHP, CRM, SuiteCRM <br>
-**Live Demo:** [Live Link](https://crm.kaplanprofessionalme.com/) <br>
-**Live Link:** [Live Link ](https://kaplanmena.com/)
+**Live Link:** [Demo](https://crm.kaplanprofessionalme.com/) <br>
+**Live Link:** [Demo](https://kaplanmena.com/)
 
 ### 6. XOOMIA
-**Description:**
-<h4> :Xoomia offers a comprehensive suite of services focused on digital transformation and innovation. Specializing in web development, mobile app development, and digital marketing, Xoomia helps businesses enhance their online presence and drive growth. With a team of experienced professionals, the company delivers tailored solutions that meet the unique needs of each client, ensuring top-quality results and exceptional user experiences.</h4>
+**Description:** <h4>Xoomia offers a comprehensive suite of services focused on digital transformation and innovation. Specializing in web development, mobile app development, and digital marketing, Xoomia helps businesses enhance their online presence and drive growth. With a team of experienced professionals, the company delivers tailored solutions that meet the unique needs of each client, ensuring top-quality results and exceptional user experiences.</h4>
 
-**Live Demo:** [Link to live demo](https://www.xoomia.com/)
+**Live Link:** [Demo](https://www.xoomia.com/)
 
 ### 7. Warumleer
 **Description:** A brief description of what this project does and its key features.
 
 **Tech Stack:** React, Node.js, MongoDB <br>
-**Live Demo:** [Link to live demo](https://www.warumleer.de/) <br>
-**Live Demo:** [Link to live demo](https://admin.warumleer.de/)
+**Live Link:** [Demo](https://www.warumleer.de/) <br>
+**Live Link:** [Demo](https://admin.warumleer.de/)
 
 ### 7. SoulSpring World
-**Description:** SoulSpring World is a beautifully crafted digital sanctuary designed to guide users on a journey of self-discovery, personal growth, and spiritual alignment. The platform blends soulful storytelling, mindful practices, and transformative teachings into an interactive web experience that inspires and empowers visitors.
+**Description:** <h4> SoulSpring World is a beautifully crafted digital sanctuary designed to guide users on a journey of self-discovery, personal growth, and spiritual alignment. The platform blends soulful storytelling, mindful practices, and transformative teachings into an interactive web experience that inspires and empowers visitors.</h4>
 
 **Tech Stack:** CMS, PHP, WordPress <br>
-**Live link:** [Live to Link](https://soulspring.world/)
+**Live link:** [Demo](https://soulspring.world/)
 
 ### 8. Wegamed
-**Description:**The Wegamed website was developed to provide an intuitive, modern, and high-performing online platform for showcasing innovative health and diagnostic solutions. The website is designed to offer a seamless user experience, easy navigation, and an optimized interface for both desktop and mobile users.
+**Description:** <h4>The Wegamed website was developed to provide an intuitive, modern, and high-performing online platform for showcasing innovative health and diagnostic solutions. The website is designed to offer a seamless user experience, easy navigation, and an optimized interface for both desktop and mobile users.</h4>
 
 **Tech Stack:** CMS, PHP, WordPress <br>
-**Live link:** [Live to Link](https://soulspring.world/)
+**Live link:** [Demo](https://soulspring.world/)
 
 ## 📈 Case Studies
 
