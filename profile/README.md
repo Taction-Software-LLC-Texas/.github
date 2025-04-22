@@ -57,8 +57,8 @@
 <h4> :Kaplan Professional ME provides world-class training and educational services tailored for professionals in the Middle East. Offering a wide range of courses in finance, accounting, and business management, the platform is dedicated to helping individuals and organizations achieve their professional development goals. With expert instructors and comprehensive study materials, Kaplan Professional ME ensures that learners are equipped with the knowledge and skills necessary to excel in their careers. </h4>
 
 **Tech Stack:** PHP, CRM, SuiteCRM
-**Live Demo:** [Link to live demo](https://crm.kaplanprofessionalme.com/) <br>
-**Live Demo:** [Link to live demo](https://kaplanprofessionalme.com/)
+**Live Demo:** [Live Link](https://crm.kaplanprofessionalme.com/) <br>
+**Live Link:** [Live Link ](https://kaplanmena.com/)
 
 ### 6. XOOMIA
 
@@ -71,9 +71,20 @@
 **Description:** A brief description of what this project does and its key features.
 
 **Tech Stack:** React, Node.js, MongoDB
-**Live Demo:** [Link to live demo](https://www.warumleer.de/)
-
+**Live Demo:** [Link to live demo](https://www.warumleer.de/) <br>
 **Live Demo:** [Link to live demo](https://admin.warumleer.de/)
+
+### 7. SoulSpring World
+**Description:** SoulSpring World is a beautifully crafted digital sanctuary designed to guide users on a journey of self-discovery, personal growth, and spiritual alignment. The platform blends soulful storytelling, mindful practices, and transformative teachings into an interactive web experience that inspires and empowers visitors.
+
+**Tech Stack:** CMS, PHP, WordPress <br>
+**Live link:** [Live to Link](https://soulspring.world/)
+
+### 8. Wegamed
+**Description:**The Wegamed website was developed to provide an intuitive, modern, and high-performing online platform for showcasing innovative health and diagnostic solutions. The website is designed to offer a seamless user experience, easy navigation, and an optimized interface for both desktop and mobile users.
+
+**Tech Stack:** CMS, PHP, WordPress <br>
+**Live link:** [Live to Link](https://soulspring.world/)
 
 ## 📈 Case Studies
 
