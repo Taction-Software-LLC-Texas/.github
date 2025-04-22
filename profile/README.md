@@ -81,7 +81,7 @@
 **Tech Stack:** CMS, PHP, WordPress <br>
 **Live link:** [Demo](https://soulspring.world/)
 
-## 📈 Case Studies
+## 📈 Case Studies (https://test.com)
 
 - **E-commerce Platform:** Scaled an e-commerce platform to handle millions of users with a robust backend and seamless user experience.
 - **Healthcare Application:** Developed a secure and compliant healthcare application with advanced features for patient management and telemedicine.
